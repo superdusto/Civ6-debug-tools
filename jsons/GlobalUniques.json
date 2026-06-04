@@ -1,0 +1,12 @@
+{
+  "name": "Global Uniques",
+  "uniques": [
+    "Can build [Land] improvements at a [+900]% rate",
+    "Can build [All Road] improvements at a [+900]% rate"
+  ],
+  "civilopediaText": [
+    {
+      "text": "Debug global uniques for faster worker improvement testing."
+    }
+  ]
+}
