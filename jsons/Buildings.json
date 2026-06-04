@@ -9,5 +9,19 @@
     "science": 100,
     "culture": 100,
     "food": 100
+  },
+  {
+    "name": "Debug: Gold Economy",
+    "cost": 1,
+    "maintenance": 0,
+    "isNationalWonder": true,
+    "gold": 1500
+  },
+  {
+    "name": "Debug: Food and Growth",
+    "cost": 1,
+    "maintenance": 0,
+    "isNationalWonder": true,
+    "food": 500
   }
 ]
