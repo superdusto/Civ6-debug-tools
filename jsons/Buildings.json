@@ -26,10 +26,10 @@
     "maintenance": 0,
     "isNationalWonder": true,
     "uniques": [
-      "+2 Military Policy Slot",
-      "+2 Economic Policy Slot",
-      "+2 Diplomatic Policy Slot",
-      "+2 Wildcard Policy Slot"
+      "+20 Military Policy Slot",
+      "+20 Economic Policy Slot",
+      "+20 Diplomatic Policy Slot",
+      "+20 Wildcard Policy Slot"
     ]
   },
   {
