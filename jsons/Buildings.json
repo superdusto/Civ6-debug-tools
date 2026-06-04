@@ -23,5 +23,17 @@
     "maintenance": 0,
     "isNationalWonder": true,
     "food": 500
-  }
+  },
+  {
+  "name": "Debug: Policy Slots",
+  "cost": 1,
+  "maintenance": 0,
+  "isNationalWonder": true,
+  "uniques": [
+    "Provides [30] [Military Policy Slots]",
+    "Provides [30] [Economic Policy Slots]",
+    "Provides [30] [Diplomatic Policy Slots]",
+    "Provides [30] [Wildcard Policy Slots]"
+  ]
+}
 ]
